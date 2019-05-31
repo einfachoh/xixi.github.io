@@ -1,0 +1,12 @@
+ #myNavbar li>a:hover{
+    background-color: gray;
+ }
+ .jumbotron{
+     background-image: url("img/ee57c2ad933aabb5f0030e7ade8a5308.jpg");
+ }
+ .jumbotron p{
+     color: #e2e2e2;
+ }
+ .jumbotron h1{
+     color: seashell;!important;
+ }
